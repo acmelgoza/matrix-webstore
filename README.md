@@ -1,2 +1,2 @@
-# webstore.github.io
+# matrix-webstore
 A fake webstore.
